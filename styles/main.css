@@ -90,6 +90,7 @@ main {
     -webkit-box-direction: normal;
     -ms-flex-flow: row wrap;
     flex-flow: row wrap;
+    justify-content: space-between;
     margin-top: 20px;
 }
 .checkbox-elements-wrap {
@@ -135,8 +136,8 @@ main {
 .hidden {
     display: none;
 }
-.card {
-    -webkit-box-shadow: 10px 10px 20px -25px #010305;
+.shadow {
+    -webkit-box-shadow: 10px 10px 20px -10px #010305;
     box-shadow: 10px 10px 20px -25px #010305;
 }
 
