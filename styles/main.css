@@ -90,7 +90,7 @@ main {
     -webkit-box-direction: normal;
     -ms-flex-flow: row wrap;
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
     margin-top: 20px;
 }
 .checkbox-elements-wrap {
